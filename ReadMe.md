@@ -1,6 +1,6 @@
 # Ahmet Yanık
 
-Python and AI engineer in Istanbul. Building production backends and AI systems since 2022.
+Python and AI engineer in Istanbul. Writing code since 2018, shipping it to production since 2022.
 
 - 🧠 Spent 24 months as the sole founding engineer of a Swiss health-economics SaaS serving global pharma clients
 - ⚡ Shipped an OCR + multi-LLM extraction pipeline (OpenAI, Anthropic, Gemini) that cut expert paper analysis from 3-6 hours to under 2 minutes
@@ -14,36 +14,15 @@ Python and AI engineer in Istanbul. Building production backends and AI systems 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-yan%C4%B1k-7bba0b1a8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmetyaniklar@gmail.com)
 
-## 🧑‍💻 Experience
+## 🛠️ Recent work
 
-### Freelance AI / Python Engineer
-`Jul 2026 - Present` · Remote
+**Freelance AI / Python Engineer** · `2026 - now` · LLM pipelines, FastAPI and Django services, document extraction, evals.
 
-LLM pipeline and AI backend contracts. FastAPI and Django services, document extraction, RAG, multi-provider LLM routing, and eval harnesses for LLM output quality.
+**Founding Engineer, HealthonomixAI** · `2024 - 2026` · Sole engineer for 24 months on a multi-tenant health-economics SaaS for global pharma. Built the OCR + multi-LLM extraction pipeline that took expert paper analysis from 3-6 hours to 1-2 minutes.
 
-### Founding Engineer, HealthonomixAI
-`May 2024 - Jun 2026` · Switzerland, Remote
+**Software Developer, E-Ticaret Merkezim** · `2022 - 2023` · Scrapy and Pandas pipelines normalizing 100K+ records a month across 10+ Turkish e-commerce sites.
 
-Multi-tenant health-economics SaaS for global pharma clients. Sole engineer on the platform for 24 months.
-
-- Owned the Django backend, the Django Templates + Tailwind frontend, and AWS infrastructure end to end, shipping weekly production releases under direct founder and enterprise client feedback
-- Architected the document-to-model extraction pipeline: OCR, routing across OpenAI, Anthropic, and Gemini, then deterministic post-processing. Expert extraction of a research paper went from 3-6 hours to 1-2 minutes
-- The platform pulled the full health-economic Markov modeling cycle down from 2-3 months to roughly a week
-- Designed multi-tenant data isolation by client, product, and user, with defensive parsing and gating validation across PDFs that were never consistent
-- Built an eval harness with Promptfoo and tracked field-level match rates across a benchmark set of cost-effectiveness papers, which is how prompt and model changes got judged instead of by vibes
-- Migrated production hosting off on-prem Windows/IIS onto AWS
-
-### Software Developer, E-Ticaret Merkezim
-`Oct 2022 - Aug 2023` · Istanbul
-
-- Built and scheduled Scrapy crawlers across 10+ Turkish e-commerce sites, extracting and normalizing 100K+ records per month for downstream reporting
-- Wrote Pandas pipelines to clean, validate, and transform daily datasets into tables the business could actually use
-- Automated reporting workflows and cut a recurring cycle from about a month to about a week by removing manual steps
-- Built React frontends so non-technical users could trigger the workflows themselves
-
-### Education
-
-BSc Computer Engineering, Fatih Sultan Mehmet University · Graduated Jan 2024
+Full details on [LinkedIn](https://www.linkedin.com/in/ahmet-yan%C4%B1k-7bba0b1a8/).
 
 ## 💻 Tech Stack
 
