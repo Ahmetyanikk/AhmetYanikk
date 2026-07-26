@@ -14,15 +14,9 @@ Python and AI engineer in Istanbul. Writing code since 2018, shipping it to prod
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-yan%C4%B1k-7bba0b1a8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmetyaniklar@gmail.com)
 
-## 🛠️ Recent work
+## 📌 Projects
 
-**Freelance AI / Python Engineer** · `2026 - now` · LLM pipelines, FastAPI and Django services, document extraction, evals.
-
-**Founding Engineer, HealthonomixAI** · `2024 - 2026` · Sole engineer for 24 months on a multi-tenant health-economics SaaS for global pharma. Built the OCR + multi-LLM extraction pipeline that took expert paper analysis from 3-6 hours to 1-2 minutes.
-
-**Software Developer, E-Ticaret Merkezim** · `2022 - 2023` · Scrapy and Pandas pipelines normalizing 100K+ records a month across 10+ Turkish e-commerce sites.
-
-Full details on [LinkedIn](https://www.linkedin.com/in/ahmet-yan%C4%B1k-7bba0b1a8/).
+**[callwhisper](https://github.com/Ahmetyanikk/callwhisper)** · Real-time AI sales coaching. Dual-stream Deepgram transcription splits rep and customer audio, Claude generates live coaching cues mid-call. FastAPI, WebSockets, browser AudioWorklet.
 
 ## 💻 Tech Stack
 
@@ -79,6 +73,6 @@ Full details on [LinkedIn](https://www.linkedin.com/in/ahmet-yan%C4%B1k-7bba0b1a
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ahmetyanikk&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ahmetyanikk&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=ahmetyanikk&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyanikk&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyanikk&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
